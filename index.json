@@ -4,11 +4,11 @@
     {
       "position": "Dev Lead - Senior Associate",
       "company": "PwC México",
-      "duration": "feb 2023 - present",
+      "duration": "jun 2025 - present",
       "location": "Guadalajara, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/pwc.webp",
       "responsibilities": [
-        "Leading México software develoment team",
+        "Leading México software development team",
         "Mentoring and coaching team members",
         "Collaborating with cross-functional teams to define and implement software solutions",
         "Ensuring code quality and best practices are followed",
@@ -16,6 +16,110 @@
         "Staying up-to-date with industry trends and technologies"
       ],
       "skills": [1, 2, 3, 4]
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Del Norte Distribution",
+      "duration": "jul. 2022 - oct. 2022",
+      "location": "Oxnard, California, United States",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/norte.webp",
+      "responsibilities": [
+        "Developed a full-stack inventory management application for order processing and stock synchronization",
+        "Built a React frontend with TypeScript and Bootstrap, and a Node.js/Express RESTful backend",
+        "Deployed infrastructure on DigitalOcean with PM2 and Nginx for high availability",
+        "Implemented Excel import features for bulk goods intake"
+      ],
+      "skills": [1, 2, 4, 5]
+    },
+    {
+      "position": "Dev Lead",
+      "company": "Setenal",
+      "duration": "may. 2022 - oct. 2022",
+      "location": "Guadalajara, Jalisco, México",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/setenal.webp",
+      "responsibilities": [
+        "Led a team in creating the SIAN EX tire management application",
+        "Implemented Bluetooth scanner integration for tire inspection data capture",
+        "Utilized React Native and Native Modules to enhance user experience and performance"
+      ],
+      "skills": [1, 4, 6]
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Channel Islands Warehouse",
+      "duration": "jun. 2021 - apr. 2022",
+      "location": "Oxnard, California, United States",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/channel.webp",
+      "responsibilities": [
+        "Delivered a cross-platform inventory system with web and mobile components",
+        "Implemented real-time stock updates and order management features",
+        "Automated manual workflows, reducing inventory processing time by 88%",
+        "Developed scalable backend APIs and a React Native mobile application"
+      ],
+      "skills": [1, 2, 3, 7]
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Control System",
+      "duration": "dec. 2020 - jan. 2022",
+      "location": "Lagos de Moreno, Jalisco, México",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/control.webp",
+      "responsibilities": [
+        "Spearheaded architecture for a GPS vehicle tracking platform with real-time monitoring",
+        "Designed scalable Node.js/Express backend services integrated with Google Maps",
+        "Implemented secure authentication via Passport.js and responsive UI components"
+      ],
+      "skills": [2, 3, 7, 5]
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Centro óptico de Lagos",
+      "duration": "feb. 2021 - jun. 2021",
+      "location": "Lagos de Moreno, Jalisco, México",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/optica.webp",
+      "responsibilities": [
+        "Architected a server-side rendering web application for enhanced information control",
+        "Implemented Node.js/Express backend with Passport.js authentication",
+        "Developed a responsive UI using Handlebars and Bootstrap for seamless user experience"
+      ],
+      "skills": [2, 3, 7, 5]
+    },
+    {
+      "position": "Industrial electromechanical",
+      "company": "Nestlé",
+      "duration": "dec. 2016 - nov. 2018",
+      "location": "Lagos de Moreno, Jalisco, México",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/nestle.webp",
+      "responsibilities": [
+        "Received comprehensive dual training in control systems, maintenance, welding, and automation",
+        "Certified in Power Transmission, Equipment Alignment, and SKF Seals"
+      ],
+      "skills": [10]
+    },
+    {
+      "position": "Web Development",
+      "company": "Kodomi",
+      "duration": "agu. 2017 - dic. 2017",
+      "location": "Lagos de Moreno, Jalisco, México",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/kodomi.webp",
+      "responsibilities": [
+        "Created an e-commerce website for seamless store merchandise access",
+        "Implemented direct communication channels between the site and company"
+      ],
+      "skills": [2, 3]
+    },
+    {
+      "position": "Robotics Designer",
+      "company": "Fnatic Robotics",
+      "duration": "apr. 2016 - may. 2017",
+      "location": "Lagos de Moreno, Jalisco, México",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/fnatic.webp",
+      "responsibilities": [
+        "Designed robotics solutions using Autodesk Inventor",
+        "Achieved National titles in Programming and Driver Skills",
+        "Secured 7th place at the Vex Robotics World Championship"
+      ],
+      "skills": [9, 10, 11]
     }
   ],
   "projects": [
@@ -26,14 +130,119 @@
       "repo": "https://github.com/FranciscoVeloz1/rn-speed-art",
       "description": "React Native Speed Art is a design library with many types of customizable and reusable components. It also has an object with many utility classes that will help you to write less code. In this case I show you a demo with a react native project, where I coded a restaurant menu with modern design and with a few code lines.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/speed-art.webp"
+    },
+    {
+      "name": "React-APIRest-Template",
+      "date": "Oct 20, 2022",
+      "link": "https://github.com/FranciscoVeloz1/react-node-template",
+      "description": "This project is a monorepo template coded with React, NodeJS and TypeScript. The backend was programed with express and has authentication using jwt, zod schema validations, user and company CRUDS and middlewares for validations and route protections. The frontend was programmed with React and Vite, and has Bootstrap 5 for design, CSS for custom styles and custom hooks. Im working to add more features to this template.",
+      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/template.webp"
+    },
+    {
+      "name": "BoxBook",
+      "date": "April 7, 2022",
+      "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "description": "BoxBook is a virtual catalog of books. The user can sign up to the web, and add books to their catalog, see all the information and the cover of the book and mark if will read it, if is reading it or if has read it. When the user adds a book, is able to give a qualification between 1 and 5, where 5 is the biggest, and can write a review of the book. The user can also mark how much percentage has read the book. For contact with other users and see their catalogs, the user can search by name and send a request, for adding that person to the friends list. The system was programmed with a NextJS template made by me.",
+      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/boxbook.webp"
+    },
+    {
+      "name": "Lab maintenance",
+      "date": "March 23, 2022",
+      "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "description": "A school needs to carry out maintenance and support reports for the laboratory computers, for which a web system was programmed to carry out the process described below. The system must have 2 types of profiles, Administrator with all permissions and user who can only register maintenance and support tickets. Register, cancel or modify a laboratory and register or modify a computer. The system was programmed with a NextJS template made by me.",
+      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/lab.webp"
+    },
+    {
+      "name": "Stack Questions",
+      "date": "March 10, 2022",
+      "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "description": "A project was developed that functions as a Stack Overflow-style Q&A community. The main page can be consulted without the need to be registered. Only registered users will be able to post a question and answer.",
+      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/stack.webp"
+    },
+    {
+      "name": "Mettaton compiler",
+      "date": "Jun 8, 2021",
+      "link": "https://github.com/FranciscoVeloz1/Mettaton-compiler",
+      "description": "Mettaton is a language program for Arduino focused on robotics programming made with JavaScript and NodeJS. I coded a complete code editor with a terminal that shows the categories of the code lines and how many errors do you have. Have some examples about how to program with mettaton, and you can select the target arduino and compile it to your robots.",
+      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/metatton.webp"
+    },
+    {
+      "name": "Smart House",
+      "date": "Jun 4, 2020",
+      "link": "https://github.com/FranciscoVeloz1/Smart-house",
+      "description": "Smart House is controlled by a web application made with JavaScript and NodeJS. This smart house has many different rooms that can be completely controlled by your smartphone. You can turn on and turn off the lights, fan, water, etc… And you can see the temperature, gas level and how much light has your house.",
+      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/smart.webp"
+    },
+    {
+      "name": "Mintel",
+      "date": "Feb 6, 2021",
+      "link": "https://franciscoveloz1.github.io/mintel/",
+      "description": "Mintel landing page, made with Bootstrap and React. Mintel is how I called the smart house app, and this project is their landing page. Focused on showing the principal features of the smart house, with the most clear information about prices, advantages and features. Is completely responsive for smartphones and tables.",
+      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/mintel.webp"
     }
   ],
   "certifications": [
     {
       "name": "Databricks Course: Delta Lake Architecture",
       "issuer": "Platzi",
-      "date": "01-2024",
+      "date": "01-2025",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/9540-course/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+    },
+    {
+      "name": "Project Management Fundamentals Course",
+      "issuer": "Platzi",
+      "date": "Oct, 2023",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/2654-course/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+    },
+    {
+      "name": "Python Course: PIP and Virtual Environments",
+      "issuer": "Platzi",
+      "date": "Oct, 2023",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/4261-course/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+    },
+    {
+      "name": "React.js Practical Course",
+      "issuer": "Platzi",
+      "date": "Feb, 2022",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/2484-react-practico/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+    },
+    {
+      "name": "Next.js Course: Authentication",
+      "issuer": "Platzi",
+      "date": "Feb, 2022",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/2428-course/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+    },
+    {
+      "name": "Frontend Developer Practical Course",
+      "issuer": "Platzi",
+      "date": "Dec, 2021",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/2477-frontend-developer-practico/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+    },
+    {
+      "name": "React Router and Redux Course",
+      "issuer": "Platzi",
+      "date": "Jun, 2021",
+      "link": "https://platzi.com/p/FranciscoVeloz1/course/1652-react-router-redux/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+    },
+    {
+      "name": "ECMAScript 6+ Course",
+      "issuer": "Platzi",
+      "date": "Jul, 2020",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/1815-ecmascript-6/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+    },
+    {
+      "name": "Asynchronicity course with JavaScript",
+      "issuer": "Platzi",
+      "date": "Jul, 2020",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/1789-asincronismo-js/diploma/detalle/",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
     }
   ],
@@ -72,24 +281,59 @@
   ],
   "skills": [
     {
-      "id:": 1,
+      "id": 1,
       "name": "React",
-      "color": "#007bff"
+      "color": "#ffffff"
     },
     {
-      "id:": 2,
+      "id": 2,
       "name": "Node.js",
-      "color": "#03b81b"
+      "color": "#ffffff"
     },
     {
-      "id:": 3,
+      "id": 3,
+      "name": "JavaScript",
+      "color": "#ffffff"
+    },
+    {
+      "id": 4,
       "name": "TypeScript",
-      "color": "#0061c9"
+      "color": "#ffffff"
     },
     {
-      "id:": 4,
-      "name": "AI development",
-      "color": "#ff9900"
+      "id": 5,
+      "name": "MySQL",
+      "color": "#ffffff"
+    },
+    {
+      "id": 6,
+      "name": "React Native",
+      "color": "#ffffff"
+    },
+    {
+      "id": 7,
+      "name": "Express",
+      "color": "#ffffff"
+    },
+    {
+      "id": 8,
+      "name": "Next.js",
+      "color": "#ffffff"
+    },
+    {
+      "id": 9,
+      "name": "Autodesk",
+      "color": "#ffffff"
+    },
+    {
+      "id": 10,
+      "name": "Robotics",
+      "color": "#ffffff"
+    },
+    {
+      "id": 11,
+      "name": "C",
+      "color": "#ffffff"
     }
   ]
 }
