@@ -4,18 +4,34 @@
     {
       "position": "Dev Lead - Senior Associate",
       "company": "PwC México",
-      "duration": "jun 2025 - present",
+      "duration": "jun. 2025 - present",
       "location": "Guadalajara, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/pwc.webp",
       "responsibilities": [
-        "Leading México software development team",
-        "Mentoring and coaching team members",
-        "Collaborating with cross-functional teams to define and implement software solutions",
-        "Ensuring code quality and best practices are followed",
-        "Participating in project planning and estimation",
-        "Staying up-to-date with industry trends and technologies"
+        "Managed vulnerability remediation through software composition analysis scanning, reducing security risks and ensuring compliance with industry standards",
+        "Orchestrated release documentation and feature promotion workflows, ensuring smooth deployment cycles across all services",
+        "Directed software development history planning and commit standards, maintaining clean and auditable code repositories",
+        "Led end-to-end fullstack development including React microservices architecture, Node.js/Python backend services, and Python PySpark data pipelines",
+        "Mentored junior developers through code reviews, technical workshops, and career development planning",
+        "Served as key liaison between technical teams and business stakeholders, aligning development priorities with product requirements"
       ],
-      "skills": [1, 2, 3, 4]
+      "skills": [1, 2, 3, 4, 8]
+    },
+    {
+      "position": "Associate",
+      "company": "PwC México",
+      "duration": "feb. 2023 - jun. 2025",
+      "location": "Guadalajara, Jalisco, México",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/pwc.webp",
+      "responsibilities": [
+        "Developed scalable web platforms integrated with blockchain for secure data pipelines",
+        "Processed on-chain and off-chain data through custom data engineering workflows",
+        "Built intelligent applications powered by AI agents using tools like Cursor and Claude Code",
+        "Created user interfaces delivering innovative, data-driven, and decentralized solutions",
+        "Designed secure data pipelines handling complex blockchain integrations",
+        "Implemented AI-powered applications leveraging large language model integration"
+      ],
+      "skills": [1, 2, 3, 4, 8]
     },
     {
       "position": "Full Stack Developer",
@@ -24,12 +40,12 @@
       "location": "Oxnard, California, United States",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/norte.webp",
       "responsibilities": [
-        "Developed a full-stack inventory management application for order processing and stock synchronization",
-        "Built a React frontend with TypeScript and Bootstrap, and a Node.js/Express RESTful backend",
-        "Deployed infrastructure on DigitalOcean with PM2 and Nginx for high availability",
-        "Implemented Excel import features for bulk goods intake"
+        "Developed full-stack inventory application enabling product order processing and real-time stock synchronization",
+        "Implemented bulk goods intake via Excel import feature",
+        "Built React frontend with TypeScript and Bootstrap, and Node.js/Express RESTful backend",
+        "Deployed infrastructure on DigitalOcean with PM2 and Nginx for high availability, efficient process management, and reliable production performance"
       ],
-      "skills": [1, 2, 4, 5]
+      "skills": [1, 2, 4, 5, 8]
     },
     {
       "position": "Dev Lead",
@@ -38,9 +54,10 @@
       "location": "Guadalajara, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/setenal.webp",
       "responsibilities": [
-        "Led a team in creating the SIAN EX tire management application",
-        "Implemented Bluetooth scanner integration for tire inspection data capture",
-        "Utilized React Native and Native Modules to enhance user experience and performance"
+        "Led team creating SIAN EX tire management application for efficient tire inspections",
+        "Implemented Bluetooth-connected scanner integration for seamless data capture",
+        "Captured and saved inspection data through scanner integration",
+        "Utilized React Native and Native Modules to improve user experience and application performance"
       ],
       "skills": [1, 4, 6]
     },
@@ -51,12 +68,13 @@
       "location": "Oxnard, California, United States",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/channel.webp",
       "responsibilities": [
-        "Delivered a cross-platform inventory system with web and mobile components",
+        "Delivered cross-platform inventory system with web and mobile components",
         "Implemented real-time stock updates and order management features",
-        "Automated manual workflows, reducing inventory processing time by 88%",
-        "Developed scalable backend APIs and a React Native mobile application"
+        "Automated manual workflows, cutting inventory processing time by 88% (2 hours → 15 minutes daily)",
+        "Developed scalable backend APIs using Node.js and Express, and React Native app",
+        "Handled goods receiving and management through integrated system"
       ],
-      "skills": [1, 2, 3, 7]
+      "skills": [1, 2, 3, 7, 8]
     },
     {
       "position": "Full Stack Developer",
@@ -65,11 +83,12 @@
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/control.webp",
       "responsibilities": [
-        "Spearheaded architecture for a GPS vehicle tracking platform with real-time monitoring",
-        "Designed scalable Node.js/Express backend services integrated with Google Maps",
-        "Implemented secure authentication via Passport.js and responsive UI components"
+        "Spearheaded end-to-end architecture for GPS vehicle tracking web platform enabling real-time fleet monitoring",
+        "Designed scalable Node.js/Express backend services with MySQL integrated with Google Maps for live geospatial rendering",
+        "Implemented secure authentication using Passport.js and responsive UI with Handlebars and Bootstrap",
+        "Delivered reliable and user-friendly tracking solution with live vehicle location rendering"
       ],
-      "skills": [2, 3, 7, 5]
+      "skills": [2, 3, 7, 5, 8]
     },
     {
       "position": "Full Stack Developer",
@@ -78,9 +97,10 @@
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/optica.webp",
       "responsibilities": [
-        "Architected a server-side rendering web application for enhanced information control",
-        "Implemented Node.js/Express backend with Passport.js authentication",
-        "Developed a responsive UI using Handlebars and Bootstrap for seamless user experience"
+        "Enhanced information control through server-side rendering web application architecture",
+        "Architected Node.js/Express backend with Passport.js authentication",
+        "Developed responsive UI using Handlebars, CSS, and Bootstrap ensuring seamless user experience",
+        "Streamlined data management and delivered robust web solution"
       ],
       "skills": [2, 3, 7, 5]
     },
@@ -92,7 +112,9 @@
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/nestle.webp",
       "responsibilities": [
         "Received comprehensive dual training in control systems, maintenance, welding, and automation",
-        "Certified in Power Transmission, Equipment Alignment, and SKF Seals"
+        "Certified in Power Transmission, Equipment Alignment, and SKF Seals (EC0638, ECE112-13)",
+        "Worked on industrial electromechanical systems and equipment",
+        "Gained practical experience in machinery maintenance and control"
       ],
       "skills": [10]
     },
@@ -103,8 +125,10 @@
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/kodomi.webp",
       "responsibilities": [
-        "Created an e-commerce website for seamless store merchandise access",
-        "Implemented direct communication channels between the site and company"
+        "Created user-friendly website allowing seamless access to store merchandise and direct communication with company",
+        "Built e-commerce platform using HAML, SASS, Bootstrap, jQuery, and JavaScript technologies",
+        "Enabled seamless merchandise access and company communication through web interface",
+        "Transformed face-to-face interactions into digital website interactions"
       ],
       "skills": [2, 3]
     },
@@ -116,8 +140,9 @@
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/fnatic.webp",
       "responsibilities": [
         "Designed robotics solutions using Autodesk Inventor",
-        "Achieved National titles in Programming and Driver Skills",
-        "Secured 7th place at the Vex Robotics World Championship"
+        "Achieved State Excellence Champion, Design Pre-National Champion, National titles in Programming Skill and Driver Skill, Robotics National Champion",
+        "Secured 7th place at the Vex Robotics World Championship 2016-2017",
+        "Competed in national and state-level robotics competitions"
       ],
       "skills": [9, 10, 11]
     }
