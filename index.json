@@ -278,13 +278,20 @@
       "duration": "2018 - 2022",
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": ""
+    },
+    {
+      "degree": "GESE Level 9 (B2) Certificate",
+      "institution": "United languages / Trinity College London",
+      "duration": "2023 - 2022",
+      "location": "Lagos de Moreno, Jalisco, México",
+      "logo": ""
     }
   ],
   "achievements": [
     {
-      "title": "",
-      "description": "",
-      "date": "",
+      "title": "Programming Skills National Champion - VEX IQ Challenge - Highrise 2014-2015",
+      "description": "Highrise consists of obtaining points by moving the red, green and blue score cubes from their initial position to the Scoring Zone and when building Highrises in the Highrise Base of each color in a match of one minute. Programming skills consists of 60 seconds, the robot of a single team gets as many points as possible using only sensors and pre-programmed instructions stored in the VEX IQ Robot Brain. The robots will move the cubes to the scoring zone and build single-color or single-color rises over the high-altitude base cubes. Winning this trophy allowed us to travel to the VEX IQ Robotics World Championship in Louisville Kentucky",
+      "date": "2015",
       "image": ""
     }
   ],
@@ -302,6 +309,18 @@
     {
       "platform": "LinkedIn",
       "link": "https://www.linkedin.com/in/franciscoveloz/"
+    },
+    {
+      "platform": "GitHub",
+      "link": "https://github.com/FranciscoVeloz1"
+    },
+    {
+      "platform": "YouTube",
+      "link": "https://www.youtube.com/channel/UC_OcxydUU_51oT8mbcedriw"
+    },
+    {
+      "platform": "Portfolio",
+      "link": "https://franciscoveloz1.github.io/portfolio/"
     }
   ],
   "skills": [
