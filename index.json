@@ -1,5 +1,5 @@
 {
-  "summary": "",
+  "summary": "Over 8 years of experience in software development. At PwC I'm working as a AI-Powered Software Engineer , optimizing web applications and implementing data engineering solutions related with blockchain and AI. At Channel Island and Del Norte Distribution I developed an inventory management application, reducing the time spent on manual processes by 88%.",
   "workExperience": [
     {
       "position": "Dev Lead - Senior Associate",
@@ -10,6 +10,7 @@
       "responsibilities": [
         "Managed vulnerability remediation through software composition analysis scanning, reducing security risks and ensuring compliance with industry standards",
         "Orchestrated release documentation and feature promotion workflows, ensuring smooth deployment cycles across all services",
+        "AI-Powered Software Engineer skilled in leveraging generative agents for efficient coding, debugging, and robust system development.",
         "Directed software development history planning and commit standards, maintaining clean and auditable code repositories",
         "Led end-to-end fullstack development including React microservices architecture, Node.js/Python backend services, and Python PySpark data pipelines",
         "Mentored junior developers through code reviews, technical workshops, and career development planning",
@@ -25,10 +26,10 @@
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/pwc.webp",
       "responsibilities": [
         "Developed scalable web platforms integrated with blockchain for secure data pipelines",
+        "Designed secure data pipelines handling complex blockchain integrations with python and databricks",
         "Processed on-chain and off-chain data through custom data engineering workflows",
         "Built intelligent applications powered by AI agents using tools like Cursor and Claude Code",
         "Created user interfaces delivering innovative, data-driven, and decentralized solutions",
-        "Designed secure data pipelines handling complex blockchain integrations",
         "Implemented AI-powered applications leveraging large language model integration"
       ],
       "skills": [1, 2, 3, 4, 8]
@@ -41,7 +42,7 @@
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/norte.webp",
       "responsibilities": [
         "Developed full-stack inventory application enabling product order processing and real-time stock synchronization",
-        "Implemented bulk goods intake via Excel import feature",
+        "Implemented bulk inventory intake using an Excel import feature",
         "Built React frontend with TypeScript and Bootstrap, and Node.js/Express RESTful backend",
         "Deployed infrastructure on DigitalOcean with PM2 and Nginx for high availability, efficient process management, and reliable production performance"
       ],
@@ -54,7 +55,7 @@
       "location": "Guadalajara, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/setenal.webp",
       "responsibilities": [
-        "Led team creating SIAN EX tire management application for efficient tire inspections",
+        "Directed the team responsible for building a SIAN tire management application, delivering efficient inspection tools natively on Android.",
         "Implemented Bluetooth-connected scanner integration for seamless data capture",
         "Captured and saved inspection data through scanner integration",
         "Utilized React Native and Native Modules to improve user experience and application performance"
@@ -71,6 +72,7 @@
         "Delivered cross-platform inventory system with web and mobile components",
         "Implemented real-time stock updates and order management features",
         "Automated manual workflows, cutting inventory processing time by 88% (2 hours → 15 minutes daily)",
+        "Developed a full-stack web application with React, integrating custom hooks, robust authentication, and performance-focused enhancements.",
         "Developed scalable backend APIs using Node.js and Express, and React Native app",
         "Handled goods receiving and management through integrated system"
       ],
@@ -277,21 +279,48 @@
       "institution": "Tecnológico Superior de Jalisco",
       "duration": "2018 - 2022",
       "location": "Lagos de Moreno, Jalisco, México",
-      "logo": ""
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/tec.webp"
     },
     {
-      "degree": "GESE Level 9 (B2) Certificate",
+      "degree": "GESE (Graded Examinations in Spoken English)",
       "institution": "United languages / Trinity College London",
-      "duration": "2023 - 2022",
+      "duration": "2023 - 2023",
       "location": "Lagos de Moreno, Jalisco, México",
-      "logo": ""
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/united.webp"
     }
   ],
   "achievements": [
     {
       "title": "Programming Skills National Champion - VEX IQ Challenge - Highrise 2014-2015",
-      "description": "Highrise consists of obtaining points by moving the red, green and blue score cubes from their initial position to the Scoring Zone and when building Highrises in the Highrise Base of each color in a match of one minute. Programming skills consists of 60 seconds, the robot of a single team gets as many points as possible using only sensors and pre-programmed instructions stored in the VEX IQ Robot Brain. The robots will move the cubes to the scoring zone and build single-color or single-color rises over the high-altitude base cubes. Winning this trophy allowed us to travel to the VEX IQ Robotics World Championship in Louisville Kentucky",
+      "description": [
+        "Engineered and programmed a robotic system to manage and score multi-color cube manipulation within a time-constrained environment.",
+        "Optimized robot performance by utilizing VEX IQ Robot Brain programming, sensors, and pre-programmed instructions.",
+        "Achieved top performance in the HighRise challenge, leading to qualification for the VEX IQ Robotics World Championship."
+      ],
       "date": "2015",
+      "link": "https://www.youtube.com/watch?v=IqKnjml3DBU",
+      "image": ""
+    },
+    {
+      "title": "Excellence National Champion - VEX VRC - Nothing but Net 2015-2016",
+      "description": [
+        "Engineered and led the programming for a robotic system designed to score soft balls into high and low nets during a fast-paced competition.",
+        "Achieved the Excellence Award by developing the most effective robot design and programming strategy for the tournament.",
+        "Achieved top performance in the Nothing but Net challenge, leading to qualification for the VEX VRC Robotics World Championship."
+      ],
+      "date": "2016",
+      "link": "https://www.youtube.com/watch?v=m-pC46W6TSU",
+      "image": ""
+    },
+    {
+      "title": "National Champion - VEX VRC - Starstruck 2016-2017",
+      "description": [
+        "Led team strategy and programming for a fast-paced VEX Robotics competition focused on scoring foam stars and cubes across a defined field.",
+        "Secured National Championship status and earned the Robot Skills award for maximizing points through superior driver and programming skills.",
+        "Achieved top performance in the Starstruck challenge, leading to qualification for the VEX VRC Robotics World Championship, were we ranked 7th place in the world."
+      ],
+      "date": "2017",
+      "link": "https://www.youtube.com/watch?v=HbNMGtv_XZA",
       "image": ""
     }
   ],
@@ -321,6 +350,14 @@
     {
       "platform": "Portfolio",
       "link": "https://franciscoveloz1.github.io/portfolio/"
+    },
+    {
+      "platform": "Instagram",
+      "link": "https://www.instagram.com/franciscoveloz1/"
+    },
+    {
+      "platform": "Phone",
+      "link": "+524741309933"
     }
   ],
   "skills": [
