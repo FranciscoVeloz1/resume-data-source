@@ -1,10 +1,10 @@
 # Francisco's resume source data
 
-This project is the source data for Francisco's resume, including experience, education, certificates, achivements, etc... This data is consumed by Francisco's web porfolio and resume.
+This project is the single source of truth for Francisco's resume data, including profile, work experience, projects, certifications, education, achievements, languages, and skills. This data is consumed by Francisco's web portfolio and CV generator.
 
-## Data structures
+## Data structure
 
-The data is coded as a JSON with the next structure:
+The data lives in `index.json` with the following structure:
 
 ```JSON
 {
@@ -12,14 +12,24 @@ The data is coded as a JSON with the next structure:
     "firstName": "",
     "lastName": "",
     "fullName": "",
+    "headline": "",
     "email": "",
+    "phone": "",
+    "location": "",
+    "website": "",
     "profilePhoto": ""
   },
-  "summary": "",
+  "summary": {
+    "short": "",
+    "long": ""
+  },
   "workExperience": [
     {
       "position": "",
       "company": "",
+      "employmentType": "",
+      "startDate": "YYYY-MM",
+      "endDate": "YYYY-MM or null",
       "duration": "",
       "location": "",
       "logo": "",
@@ -31,7 +41,7 @@ The data is coded as a JSON with the next structure:
     {
       "id": 0,
       "name": "",
-      "date": "",
+      "date": "YYYY-MM-DD",
       "link": "",
       "repo": "",
       "video": "",
@@ -63,12 +73,13 @@ The data is coded as a JSON with the next structure:
   "achievements": [
     {
       "title": "",
-      "description": "",
+      "description": [],
       "date": "",
+      "link": "",
       "image": ""
     }
   ],
-  "idioms": [
+  "languages": [
     {
       "language": "",
       "proficiency": ""
@@ -84,8 +95,18 @@ The data is coded as a JSON with the next structure:
     {
       "id": 0,
       "name": "",
-      "color": ""
+      "category": ""
     }
   ]
 }
 ```
+
+## Field notes
+
+- **`summary`**: `short` is a 1-2 line version for cards and ATS headers; `long` is the full CV summary.
+- **`workExperience[].startDate` / `endDate`**: ISO `YYYY-MM` strings for sorting and duration computation. `endDate: null` means the role is current. `duration` is the human-readable display string.
+- **`workExperience[].employmentType`**: one of `Full-time`, `Contract`, or `Freelance`.
+- **`workExperience[].skills` / `projects[].skills`**: arrays of skill ids referencing entries in the top-level `skills` array.
+- **`projects[].date`**: ISO `YYYY-MM-DD` string.
+- **`projects[].video`**: YouTube video id.
+- **`skills[].category`**: one of `languages`, `frontend`, `backend`, `dataAndAI`, `devopsAndCloud`, `databases`, or `other`. Grouped skill lists (e.g. for a CV's technical skills section) are derived by filtering on this field.
