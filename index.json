@@ -1,281 +1,240 @@
 {
-  "summary": "Over 8 years of experience in software development. At PwC I'm working as a AI-Powered Software Engineer , optimizing web applications and implementing data engineering solutions related with blockchain and AI. At Channel Island and Del Norte Distribution I developed an inventory management application, reducing the time spent on manual processes by 88%.",
+  "summary": "Full-stack software engineer with 8+ years of experience building scalable web, mobile, and AI-powered applications using React, Node.js, Python, and cloud infrastructure. Experienced leading development teams, architecting production systems, and implementing blockchain and data engineering solutions in enterprise environments at PwC. Proven ability to automate workflows, optimize software delivery, and deliver measurable business impact, including reducing inventory processing time by 88%.",
+  "technicalSkills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "SQL", "C#"],
+    "frontend": [
+      "React",
+      "Next.js",
+      "React Native",
+      "Bootstrap",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Chakra UI",
+      "Fluent UI"
+    ],
+    "backend": [
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "JWT Authentication",
+      "Passport.js"
+    ],
+    "dataAndAI": [
+      "PySpark",
+      "Databricks",
+      "AI Agents",
+      "LLM Integration",
+      "Blockchain Data Pipelines"
+    ],
+    "devopsAndCloud": ["DigitalOcean", "Nginx", "PM2", "Git", "Azure DevOps"],
+    "databases": ["MySQL", "PostgreSQL"],
+    "other": ["Autodesk Inventor", "Robotics"]
+  },
   "workExperience": [
     {
       "position": "Dev Lead - Senior Associate",
       "company": "PwC México",
-      "duration": "jun. 2025 - present",
+      "duration": "Jun 2025 - Present",
       "location": "Guadalajara, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/pwc.webp",
       "responsibilities": [
-        "Managed vulnerability remediation through software composition analysis scanning, reducing security risks and ensuring compliance with industry standards",
-        "Orchestrated release documentation and feature promotion workflows, ensuring smooth deployment cycles across all services",
-        "AI-Powered Software Engineer skilled in leveraging generative agents for efficient coding, debugging, and robust system development.",
-        "Directed software development history planning and commit standards, maintaining clean and auditable code repositories",
-        "Led end-to-end fullstack development including React microservices architecture, Node.js/Python backend services, and Python PySpark data pipelines",
-        "Mentored junior developers through code reviews, technical workshops, and career development planning",
-        "Served as key liaison between technical teams and business stakeholders, aligning development priorities with product requirements"
+        "Led end-to-end full-stack development including React microservices architecture, Node.js/Python backend services, and Python PySpark data pipelines",
+        "Managed vulnerability remediation workflows through software composition analysis scanning, reducing security risks and improving compliance",
+        "Orchestrated release documentation and feature promotion workflows, improving deployment reliability across services",
+        "Used AI-assisted development workflows with generative agents to accelerate feature delivery, debugging, and software maintenance",
+        "Defined commit standards and repository management practices to maintain clean and auditable codebases",
+        "Mentored junior developers through code reviews, technical guidance, and development planning",
+        "Collaborated directly with technical and business stakeholders to align engineering priorities with product goals"
       ],
-      "skills": [1, 2, 3, 4, 8]
+      "skills": [1, 2, 3, 4, 8, 12, 13]
     },
     {
       "position": "Associate",
       "company": "PwC México",
-      "duration": "feb. 2023 - jun. 2025",
+      "duration": "Feb 2023 - Jun 2025",
       "location": "Guadalajara, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/pwc.webp",
       "responsibilities": [
-        "Developed scalable web platforms integrated with blockchain for secure data pipelines",
-        "Designed secure data pipelines handling complex blockchain integrations with python and databricks",
-        "Processed on-chain and off-chain data through custom data engineering workflows",
-        "Built intelligent applications powered by AI agents using tools like Cursor and Claude Code",
-        "Created user interfaces delivering innovative, data-driven, and decentralized solutions",
-        "Implemented AI-powered applications leveraging large language model integration"
+        "Developed scalable web platforms integrated with blockchain-based data pipelines",
+        "Designed secure data engineering workflows using Python, Databricks, and blockchain integrations",
+        "Processed on-chain and off-chain datasets through custom ETL and analytics pipelines",
+        "Built AI-powered applications leveraging LLM integrations and agent-based workflows using tools like Cursor and Claude Code",
+        "Developed React-based interfaces for blockchain data visualization and enterprise workflows"
       ],
-      "skills": [1, 2, 3, 4, 8]
+      "skills": [1, 2, 3, 4, 8, 12, 13]
     },
     {
       "position": "Full Stack Developer",
       "company": "Del Norte Distribution",
-      "duration": "jul. 2022 - oct. 2022",
+      "duration": "Jul 2022 - Oct 2022",
       "location": "Oxnard, California, United States",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/norte.webp",
       "responsibilities": [
-        "Developed full-stack inventory application enabling product order processing and real-time stock synchronization",
-        "Implemented bulk inventory intake using an Excel import feature",
-        "Built React frontend with TypeScript and Bootstrap, and Node.js/Express RESTful backend",
-        "Deployed infrastructure on DigitalOcean with PM2 and Nginx for high availability, efficient process management, and reliable production performance"
+        "Developed a full-stack inventory management platform with real-time stock synchronization and order processing",
+        "Implemented bulk inventory intake workflows using Excel import automation",
+        "Built React frontend applications using TypeScript and Bootstrap alongside Node.js/Express backend APIs",
+        "Deployed and maintained production infrastructure on DigitalOcean using PM2 and Nginx"
       ],
       "skills": [1, 2, 4, 5, 8]
     },
     {
       "position": "Dev Lead",
       "company": "Setenal",
-      "duration": "may. 2022 - oct. 2022",
+      "duration": "May 2022 - Oct 2022",
       "location": "Guadalajara, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/setenal.webp",
       "responsibilities": [
-        "Directed the team responsible for building a SIAN tire management application, delivering efficient inspection tools natively on Android.",
-        "Implemented Bluetooth-connected scanner integration for seamless data capture",
-        "Captured and saved inspection data through scanner integration",
-        "Utilized React Native and Native Modules to improve user experience and application performance"
+        "Led development of a SIAN tire management application with native Android inspection tools",
+        "Implemented Bluetooth scanner integrations for real-time inspection data capture",
+        "Improved mobile application performance and user experience using React Native and Native Modules"
       ],
       "skills": [1, 4, 6]
     },
     {
       "position": "Full Stack Developer",
       "company": "Channel Islands Warehouse",
-      "duration": "jun. 2021 - apr. 2022",
+      "duration": "Jun 2021 - Apr 2022",
       "location": "Oxnard, California, United States",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/channel.webp",
       "responsibilities": [
-        "Delivered cross-platform inventory system with web and mobile components",
-        "Implemented real-time stock updates and order management features",
-        "Automated manual workflows, cutting inventory processing time by 88% (2 hours → 15 minutes daily)",
-        "Developed a full-stack web application with React, integrating custom hooks, robust authentication, and performance-focused enhancements.",
-        "Developed scalable backend APIs using Node.js and Express, and React Native app",
-        "Handled goods receiving and management through integrated system"
+        "Delivered cross-platform inventory management systems with web and mobile applications",
+        "Automated inventory workflows, reducing manual processing time by 88% (2 hours to 15 minutes daily)",
+        "Developed scalable React and React Native applications with authentication and performance optimizations",
+        "Built backend APIs and inventory workflows using Node.js and Express",
+        "Integrated goods receiving and inventory management processes into a unified system"
       ],
       "skills": [1, 2, 3, 7, 8]
     },
     {
       "position": "Full Stack Developer",
       "company": "Control System",
-      "duration": "dec. 2020 - jan. 2022",
+      "duration": "Dec 2020 - Jan 2022",
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/control.webp",
       "responsibilities": [
-        "Spearheaded end-to-end architecture for GPS vehicle tracking web platform enabling real-time fleet monitoring",
-        "Designed scalable Node.js/Express backend services with MySQL integrated with Google Maps for live geospatial rendering",
-        "Implemented secure authentication using Passport.js and responsive UI with Handlebars and Bootstrap",
-        "Delivered reliable and user-friendly tracking solution with live vehicle location rendering"
+        "Architected a GPS vehicle tracking platform for real-time fleet monitoring",
+        "Developed scalable Node.js and Express backend services integrated with MySQL and Google Maps",
+        "Implemented secure authentication workflows using Passport.js",
+        "Delivered responsive tracking dashboards with live geospatial visualization"
       ],
       "skills": [2, 3, 7, 5, 8]
     },
     {
       "position": "Full Stack Developer",
       "company": "Centro óptico de Lagos",
-      "duration": "feb. 2021 - jun. 2021",
+      "duration": "Feb 2021 - Jun 2021",
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/optica.webp",
       "responsibilities": [
-        "Enhanced information control through server-side rendering web application architecture",
-        "Architected Node.js/Express backend with Passport.js authentication",
-        "Developed responsive UI using Handlebars, CSS, and Bootstrap ensuring seamless user experience",
-        "Streamlined data management and delivered robust web solution"
+        "Developed server-side rendered web applications to improve operational data management",
+        "Built Node.js and Express backend services with Passport.js authentication",
+        "Created responsive interfaces using Handlebars, CSS, and Bootstrap"
       ],
       "skills": [2, 3, 7, 5]
     },
     {
-      "position": "Industrial electromechanical",
+      "position": "Industrial Electromechanical Technician",
       "company": "Nestlé",
-      "duration": "dec. 2016 - nov. 2018",
+      "duration": "Dec 2016 - Nov 2018",
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/nestle.webp",
       "responsibilities": [
-        "Received comprehensive dual training in control systems, maintenance, welding, and automation",
-        "Certified in Power Transmission, Equipment Alignment, and SKF Seals (EC0638, ECE112-13)",
-        "Worked on industrial electromechanical systems and equipment",
-        "Gained practical experience in machinery maintenance and control"
+        "Completed technical training in automation, control systems, maintenance, and welding",
+        "Worked on industrial electromechanical systems and production equipment",
+        "Earned certifications in power transmission, equipment alignment, and SKF seals"
       ],
       "skills": [10]
     },
     {
-      "position": "Web Development",
+      "position": "Web Developer",
       "company": "Kodomi",
-      "duration": "agu. 2017 - dic. 2017",
+      "duration": "Aug 2017 - Dec 2017",
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/kodomi.webp",
       "responsibilities": [
-        "Created user-friendly website allowing seamless access to store merchandise and direct communication with company",
-        "Built e-commerce platform using HAML, SASS, Bootstrap, jQuery, and JavaScript technologies",
-        "Enabled seamless merchandise access and company communication through web interface",
-        "Transformed face-to-face interactions into digital website interactions"
+        "Developed an e-commerce platform using HAML, SASS, Bootstrap, jQuery, and JavaScript",
+        "Enabled online product browsing and direct customer communication through the website"
       ],
       "skills": [2, 3]
     },
     {
       "position": "Robotics Designer",
       "company": "Fnatic Robotics",
-      "duration": "apr. 2016 - may. 2017",
+      "duration": "Apr 2016 - May 2017",
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/fnatic.webp",
       "responsibilities": [
-        "Designed robotics solutions using Autodesk Inventor",
-        "Achieved State Excellence Champion, Design Pre-National Champion, National titles in Programming Skill and Driver Skill, Robotics National Champion",
-        "Secured 7th place at the Vex Robotics World Championship 2016-2017",
-        "Competed in national and state-level robotics competitions"
+        "Designed robotics systems using Autodesk Inventor",
+        "Won multiple robotics awards including National Champion and Excellence Champion titles",
+        "Ranked 7th globally at the VEX Robotics World Championship 2016-2017"
       ],
       "skills": [9, 10, 11]
     }
   ],
   "projects": [
     {
-      "name": "React native Speed Art",
-      "date": "Nov 1, 2022",
-      "link": "https://github.com/FranciscoVeloz1/rn-speed-art",
-      "repo": "https://github.com/FranciscoVeloz1/rn-speed-art",
-      "description": "React Native Speed Art is a design library with many types of customizable and reusable components. It also has an object with many utility classes that will help you to write less code. In this case I show you a demo with a react native project, where I coded a restaurant menu with modern design and with a few code lines.",
-      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/speed-art.webp"
-    },
-    {
       "name": "React-APIRest-Template",
       "date": "Oct 20, 2022",
       "link": "https://github.com/FranciscoVeloz1/react-node-template",
-      "description": "This project is a monorepo template coded with React, NodeJS and TypeScript. The backend was programed with express and has authentication using jwt, zod schema validations, user and company CRUDS and middlewares for validations and route protections. The frontend was programmed with React and Vite, and has Bootstrap 5 for design, CSS for custom styles and custom hooks. Im working to add more features to this template.",
+      "description": "Production-ready monorepo template built with React, Node.js, and TypeScript. Includes JWT authentication, Zod schema validation, REST APIs, reusable frontend architecture, route protection middleware, and scalable backend patterns.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/template.webp"
     },
     {
-      "name": "BoxBook",
-      "date": "April 7, 2022",
-      "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
-      "description": "BoxBook is a virtual catalog of books. The user can sign up to the web, and add books to their catalog, see all the information and the cover of the book and mark if will read it, if is reading it or if has read it. When the user adds a book, is able to give a qualification between 1 and 5, where 5 is the biggest, and can write a review of the book. The user can also mark how much percentage has read the book. For contact with other users and see their catalogs, the user can search by name and send a request, for adding that person to the friends list. The system was programmed with a NextJS template made by me.",
-      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/boxbook.webp"
-    },
-    {
-      "name": "Lab maintenance",
-      "date": "March 23, 2022",
-      "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
-      "description": "A school needs to carry out maintenance and support reports for the laboratory computers, for which a web system was programmed to carry out the process described below. The system must have 2 types of profiles, Administrator with all permissions and user who can only register maintenance and support tickets. Register, cancel or modify a laboratory and register or modify a computer. The system was programmed with a NextJS template made by me.",
-      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/lab.webp"
-    },
-    {
-      "name": "Stack Questions",
-      "date": "March 10, 2022",
-      "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
-      "description": "A project was developed that functions as a Stack Overflow-style Q&A community. The main page can be consulted without the need to be registered. Only registered users will be able to post a question and answer.",
-      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/stack.webp"
-    },
-    {
-      "name": "Mettaton compiler",
+      "name": "Mettaton Compiler",
       "date": "Jun 8, 2021",
       "link": "https://github.com/FranciscoVeloz1/Mettaton-compiler",
-      "description": "Mettaton is a language program for Arduino focused on robotics programming made with JavaScript and NodeJS. I coded a complete code editor with a terminal that shows the categories of the code lines and how many errors do you have. Have some examples about how to program with mettaton, and you can select the target arduino and compile it to your robots.",
+      "description": "Custom robotics-focused programming language and compiler for Arduino built with JavaScript and Node.js. Includes an integrated code editor, terminal, syntax validation system, and Arduino compilation workflows.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/metatton.webp"
     },
     {
       "name": "Smart House",
       "date": "Jun 4, 2020",
       "link": "https://github.com/FranciscoVeloz1/Smart-house",
-      "description": "Smart House is controlled by a web application made with JavaScript and NodeJS. This smart house has many different rooms that can be completely controlled by your smartphone. You can turn on and turn off the lights, fan, water, etc… And you can see the temperature, gas level and how much light has your house.",
+      "description": "IoT-based smart home platform built with JavaScript and Node.js, enabling remote control of lighting, fans, water systems, and environmental sensors through a web application.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/smart.webp"
     },
     {
-      "name": "Mintel",
-      "date": "Feb 6, 2021",
-      "link": "https://franciscoveloz1.github.io/mintel/",
-      "description": "Mintel landing page, made with Bootstrap and React. Mintel is how I called the smart house app, and this project is their landing page. Focused on showing the principal features of the smart house, with the most clear information about prices, advantages and features. Is completely responsive for smartphones and tables.",
-      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/mintel.webp"
+      "name": "BoxBook",
+      "date": "Apr 7, 2022",
+      "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "description": "Social book-tracking platform built with Next.js, allowing users to manage reading progress, reviews, ratings, and social connections through a modern web interface.",
+      "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/boxbook.webp"
     }
   ],
   "certifications": [
     {
       "name": "Databricks Course: Delta Lake Architecture",
       "issuer": "Platzi",
-      "date": "01-2025",
+      "date": "Jan 2025",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/9540-course/diploma/detalle/",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
     },
     {
-      "name": "Project Management Fundamentals Course",
+      "name": "Project Management Fundamentals",
       "issuer": "Platzi",
-      "date": "Oct, 2023",
+      "date": "Oct 2023",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/2654-course/diploma/detalle/",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
     },
     {
-      "name": "Python Course: PIP and Virtual Environments",
+      "name": "Next.js Authentication",
       "issuer": "Platzi",
-      "date": "Oct, 2023",
-      "link": "https://platzi.com/p/FranciscoVeloz1/curso/4261-course/diploma/detalle/",
+      "date": "Feb 2022",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/2428-course/diploma/detalle/",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
     },
     {
       "name": "React.js Practical Course",
       "issuer": "Platzi",
-      "date": "Feb, 2022",
+      "date": "Feb 2022",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/2484-react-practico/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
-    },
-    {
-      "name": "Next.js Course: Authentication",
-      "issuer": "Platzi",
-      "date": "Feb, 2022",
-      "link": "https://platzi.com/p/FranciscoVeloz1/curso/2428-course/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
-    },
-    {
-      "name": "Frontend Developer Practical Course",
-      "issuer": "Platzi",
-      "date": "Dec, 2021",
-      "link": "https://platzi.com/p/FranciscoVeloz1/curso/2477-frontend-developer-practico/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
-    },
-    {
-      "name": "React Router and Redux Course",
-      "issuer": "Platzi",
-      "date": "Jun, 2021",
-      "link": "https://platzi.com/p/FranciscoVeloz1/course/1652-react-router-redux/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
-    },
-    {
-      "name": "ECMAScript 6+ Course",
-      "issuer": "Platzi",
-      "date": "Jul, 2020",
-      "link": "https://platzi.com/p/FranciscoVeloz1/curso/1815-ecmascript-6/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
-    },
-    {
-      "name": "Asynchronicity course with JavaScript",
-      "issuer": "Platzi",
-      "date": "Jul, 2020",
-      "link": "https://platzi.com/p/FranciscoVeloz1/curso/1789-asincronismo-js/diploma/detalle/",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
     }
   ],
   "education": [
     {
-      "degree": "Computer systems Engineer",
+      "degree": "Computer Systems Engineering",
       "institution": "Tecnológico Superior de Jalisco",
       "duration": "2018 - 2022",
       "location": "Lagos de Moreno, Jalisco, México",
@@ -283,48 +242,45 @@
     },
     {
       "degree": "GESE (Graded Examinations in Spoken English)",
-      "institution": "United languages / Trinity College London",
-      "duration": "2023 - 2023",
+      "institution": "United Languages / Trinity College London",
+      "duration": "2023",
       "location": "Lagos de Moreno, Jalisco, México",
       "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/united.webp"
     }
   ],
   "achievements": [
     {
-      "title": "Programming Skills National Champion - VEX IQ Challenge - Highrise 2014-2015",
+      "title": "VEX IQ Highrise Programming Skills National Champion",
       "description": [
-        "Engineered and programmed a robotic system to manage and score multi-color cube manipulation within a time-constrained environment.",
-        "Optimized robot performance by utilizing VEX IQ Robot Brain programming, sensors, and pre-programmed instructions.",
-        "Achieved top performance in the HighRise challenge, leading to qualification for the VEX IQ Robotics World Championship."
+        "Engineered and programmed competitive robotics systems using sensors and autonomous control workflows",
+        "Qualified for the VEX IQ Robotics World Championship through top national performance"
       ],
       "date": "2015",
       "link": "https://www.youtube.com/watch?v=IqKnjml3DBU",
       "image": ""
     },
     {
-      "title": "Excellence National Champion - VEX VRC - Nothing but Net 2015-2016",
+      "title": "VEX VRC Excellence National Champion - Nothing But Net",
       "description": [
-        "Engineered and led the programming for a robotic system designed to score soft balls into high and low nets during a fast-paced competition.",
-        "Achieved the Excellence Award by developing the most effective robot design and programming strategy for the tournament.",
-        "Achieved top performance in the Nothing but Net challenge, leading to qualification for the VEX VRC Robotics World Championship."
+        "Led robot programming and competition strategy for a high-performance VEX Robotics team",
+        "Qualified for the VEX VRC Robotics World Championship after winning the Excellence Award"
       ],
       "date": "2016",
       "link": "https://www.youtube.com/watch?v=m-pC46W6TSU",
       "image": ""
     },
     {
-      "title": "National Champion - VEX VRC - Starstruck 2016-2017",
+      "title": "VEX VRC National Champion - Starstruck",
       "description": [
-        "Led team strategy and programming for a fast-paced VEX Robotics competition focused on scoring foam stars and cubes across a defined field.",
-        "Secured National Championship status and earned the Robot Skills award for maximizing points through superior driver and programming skills.",
-        "Achieved top performance in the Starstruck challenge, leading to qualification for the VEX VRC Robotics World Championship, were we ranked 7th place in the world."
+        "Led programming strategy and robot optimization for a nationally ranked robotics team",
+        "Achieved 7th place globally at the VEX Robotics World Championship"
       ],
       "date": "2017",
       "link": "https://www.youtube.com/watch?v=HbNMGtv_XZA",
       "image": ""
     }
   ],
-  "idioms": [
+  "languages": [
     {
       "language": "Spanish",
       "proficiency": "Native"
@@ -344,16 +300,12 @@
       "link": "https://github.com/FranciscoVeloz1"
     },
     {
-      "platform": "YouTube",
-      "link": "https://www.youtube.com/channel/UC_OcxydUU_51oT8mbcedriw"
-    },
-    {
       "platform": "Portfolio",
       "link": "https://franciscoveloz1.github.io/portfolio/"
     },
     {
-      "platform": "Instagram",
-      "link": "https://www.instagram.com/franciscoveloz1/"
+      "platform": "YouTube",
+      "link": "https://www.youtube.com/channel/UC_OcxydUU_51oT8mbcedriw"
     },
     {
       "platform": "Phone",
@@ -403,7 +355,7 @@
     },
     {
       "id": 9,
-      "name": "Autodesk",
+      "name": "Autodesk Inventor",
       "color": "#ffffff"
     },
     {
@@ -414,6 +366,16 @@
     {
       "id": 11,
       "name": "C",
+      "color": "#ffffff"
+    },
+    {
+      "id": 12,
+      "name": "Python",
+      "color": "#ffffff"
+    },
+    {
+      "id": 13,
+      "name": "Databricks",
       "color": "#ffffff"
     }
   ]
