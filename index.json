@@ -1,4 +1,11 @@
 {
+  "profile": {
+    "firstName": "Francisco",
+    "lastName": "Veloz",
+    "fullName": "Francisco González Veloz",
+    "email": "franciscoveloz245@gmail.com",
+    "profilePhoto": "https://franciscoveloz1.github.io/resume-data-source/images/profile/foto.webp"
+  },
   "summary": "Over 8 years of experience in software development. At PwC I'm working as a AI-Powered Software Engineer , optimizing web applications and implementing data engineering solutions related with blockchain and AI. At Channel Island and Del Norte Distribution I developed an inventory management application, reducing the time spent on manual processes by 88%.",
   "workExperience": [
     {
@@ -151,59 +158,98 @@
   ],
   "projects": [
     {
+      "id": 10,
       "name": "React native Speed Art",
       "date": "Nov 1, 2022",
       "link": "https://github.com/FranciscoVeloz1/rn-speed-art",
       "repo": "https://github.com/FranciscoVeloz1/rn-speed-art",
+      "video": "9Gqwq0AfYt8",
+      "demo": "",
+      "skills": [1, 2, 4, 6],
       "description": "React Native Speed Art is a design library with many types of customizable and reusable components. It also has an object with many utility classes that will help you to write less code. In this case I show you a demo with a react native project, where I coded a restaurant menu with modern design and with a few code lines.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/speed-art.webp"
     },
     {
+      "id": 11,
       "name": "React-APIRest-Template",
       "date": "Oct 20, 2022",
       "link": "https://github.com/FranciscoVeloz1/react-node-template",
+      "repo": "https://github.com/FranciscoVeloz1/react-node-template",
+      "video": "GHAM2VTqn0U",
+      "demo": "",
+      "skills": [1, 2, 4, 7],
       "description": "This project is a monorepo template coded with React, NodeJS and TypeScript. The backend was programed with express and has authentication using jwt, zod schema validations, user and company CRUDS and middlewares for validations and route protections. The frontend was programmed with React and Vite, and has Bootstrap 5 for design, CSS for custom styles and custom hooks. Im working to add more features to this template.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/template.webp"
     },
     {
+      "id": 1,
       "name": "BoxBook",
       "date": "April 7, 2022",
       "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "repo": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "video": "TNnKCNwQJE8",
+      "demo": "",
+      "skills": [1, 2, 3, 8],
       "description": "BoxBook is a virtual catalog of books. The user can sign up to the web, and add books to their catalog, see all the information and the cover of the book and mark if will read it, if is reading it or if has read it. When the user adds a book, is able to give a qualification between 1 and 5, where 5 is the biggest, and can write a review of the book. The user can also mark how much percentage has read the book. For contact with other users and see their catalogs, the user can search by name and send a request, for adding that person to the friends list. The system was programmed with a NextJS template made by me.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/boxbook.webp"
     },
     {
+      "id": 2,
       "name": "Lab maintenance",
       "date": "March 23, 2022",
       "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "repo": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "video": "AETMF4xCXJQ",
+      "demo": "",
+      "skills": [1, 2, 3, 8],
       "description": "A school needs to carry out maintenance and support reports for the laboratory computers, for which a web system was programmed to carry out the process described below. The system must have 2 types of profiles, Administrator with all permissions and user who can only register maintenance and support tickets. Register, cancel or modify a laboratory and register or modify a computer. The system was programmed with a NextJS template made by me.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/lab.webp"
     },
     {
+      "id": 3,
       "name": "Stack Questions",
       "date": "March 10, 2022",
       "link": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "repo": "https://github.com/FranciscoVeloz1/React-Next-Dashboard",
+      "video": "3KcSOKeZfYQ",
+      "demo": "",
+      "skills": [1, 2, 3, 8],
       "description": "A project was developed that functions as a Stack Overflow-style Q&A community. The main page can be consulted without the need to be registered. Only registered users will be able to post a question and answer.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/stack.webp"
     },
     {
+      "id": 4,
       "name": "Mettaton compiler",
       "date": "Jun 8, 2021",
       "link": "https://github.com/FranciscoVeloz1/Mettaton-compiler",
+      "repo": "https://github.com/FranciscoVeloz1/Mettaton-compiler",
+      "video": "L29yk_CP0_I",
+      "demo": "",
+      "skills": [2, 3, 7],
       "description": "Mettaton is a language program for Arduino focused on robotics programming made with JavaScript and NodeJS. I coded a complete code editor with a terminal that shows the categories of the code lines and how many errors do you have. Have some examples about how to program with mettaton, and you can select the target arduino and compile it to your robots.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/metatton.webp"
     },
     {
+      "id": 5,
       "name": "Smart House",
       "date": "Jun 4, 2020",
       "link": "https://github.com/FranciscoVeloz1/Smart-house",
+      "repo": "https://github.com/FranciscoVeloz1/Smart-house",
+      "video": "vM1FTTQyAUg",
+      "demo": "",
+      "skills": [2, 3, 5, 7],
       "description": "Smart House is controlled by a web application made with JavaScript and NodeJS. This smart house has many different rooms that can be completely controlled by your smartphone. You can turn on and turn off the lights, fan, water, etc… And you can see the temperature, gas level and how much light has your house.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/smart.webp"
     },
     {
+      "id": 6,
       "name": "Mintel",
       "date": "Feb 6, 2021",
       "link": "https://franciscoveloz1.github.io/mintel/",
+      "repo": "https://github.com/FranciscoVeloz1/mintel",
+      "video": "AUW6WLGywXE",
+      "demo": "https://franciscoveloz1.github.io/mintel/",
+      "skills": [1, 3],
       "description": "Mintel landing page, made with Bootstrap and React. Mintel is how I called the smart house app, and this project is their landing page. Focused on showing the principal features of the smart house, with the most clear information about prices, advantages and features. Is completely responsive for smartphones and tables.",
       "image": "https://franciscoveloz1.github.io/resume-data-source/images/projects/mintel.webp"
     }
@@ -214,63 +260,72 @@
       "issuer": "Platzi",
       "date": "01-2025",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/9540-course/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "I implemented a Delta Lake architecture at Databricks, creating the Bronze, Silver, and Gold layers and understanding the ETL flow, storage, and advantages of the Parquet and Delta formats."
     },
     {
       "name": "Project Management Fundamentals Course",
       "issuer": "Platzi",
       "date": "Oct, 2023",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/2654-course/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "I learned to manage projects efficiently by controlling time, resources, and costs. I learned to identify risks and handle crises. I understood the project lifecycle and its closure, applying fundamental project management practices."
     },
     {
       "name": "Python Course: PIP and Virtual Environments",
       "issuer": "Platzi",
       "date": "Oct, 2023",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/4261-course/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "I learned to work professionally with Python, managing projects with PIP and virtual environments. I installed and containerized applications in Docker, learned to use FastAPI to build web servers, and explored libraries like Pandas and Requests."
     },
     {
       "name": "React.js Practical Course",
       "issuer": "Platzi",
       "date": "Feb, 2022",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/2484-react-practico/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "I learned how to convert HTML and CSS layouts to reusable components in React.js. Set up a development environment with Webpack and Babel. I defined the components, containers, routes, react hooks of your project."
     },
     {
       "name": "Next.js Course: Authentication",
       "issuer": "Platzi",
       "date": "Feb, 2022",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/2428-course/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "I learned authentication strategies with Next.js. Implement sessions or tokens to authenticate users to my web application's views and APIs. I defined roles and permissions to protect routes from the client or the server. I added the authentication layer to the architecture of my web applications with Next.js"
     },
     {
       "name": "Frontend Developer Practical Course",
       "issuer": "Platzi",
       "date": "Dec, 2021",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/2477-frontend-developer-practico/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "I mastered the basics of HTML and CSS. I learned about the anatomy of an HTML document, its CSS elements and properties. I designed the main screens of my website with responsive design."
     },
     {
       "name": "React Router and Redux Course",
       "issuer": "Platzi",
       "date": "Jun, 2021",
       "link": "https://platzi.com/p/FranciscoVeloz1/course/1652-react-router-redux/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "I learned hands-on how to implement React Router DOM 5 to handle routes in your frontend projects like a pro. I also implemented Redux, the JavaScript library used by Instagram to facilitate the development of interactive web applications. I mastered the effective and centralized handling of \"states\" and implements the full flow of Redux"
     },
     {
       "name": "ECMAScript 6+ Course",
       "issuer": "Platzi",
       "date": "Jul, 2020",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/1815-ecmascript-6/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "JavaScript is the most used language for web application development, mainly in the frontend. Every year, ECMA International publishes a new edition of ECMAScript, the specification to which JavaScript conforms. I learned about the new features that ECMAScript implements from version ES6 to version ES13."
     },
     {
       "name": "Asynchronicity course with JavaScript",
       "issuer": "Platzi",
       "date": "Jul, 2020",
       "link": "https://platzi.com/p/FranciscoVeloz1/curso/1789-asincronismo-js/diploma/detalle/",
-      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp"
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "I learned the fundamental concepts of async with JavaScript, applied its different structures and developed asynchronous solutions."
     }
   ],
   "education": [
