@@ -8,6 +8,13 @@ The data is coded as a JSON with the next structure:
 
 ```JSON
 {
+  "profile": {
+    "firstName": "",
+    "lastName": "",
+    "fullName": "",
+    "email": "",
+    "profilePhoto": ""
+  },
   "summary": "",
   "workExperience": [
     {
@@ -22,9 +29,14 @@ The data is coded as a JSON with the next structure:
   ],
   "projects": [
     {
+      "id": 0,
       "name": "",
       "date": "",
       "link": "",
+      "repo": "",
+      "video": "",
+      "demo": "",
+      "skills": [],
       "description": "",
       "image": ""
     }
@@ -35,7 +47,8 @@ The data is coded as a JSON with the next structure:
       "issuer": "",
       "date": "",
       "link": "",
-      "logo": ""
+      "logo": "",
+      "description": ""
     }
   ],
   "education": [
@@ -69,6 +82,7 @@ The data is coded as a JSON with the next structure:
   ],
   "skills": [
     {
+      "id": 0,
       "name": "",
       "color": ""
     }
