@@ -1,5 +1,10 @@
 # Francisco's resume source data
 
+## Status
+
+- **Stage:** production ready
+- **Audited:** 2026-08-23
+
 This project is the single source of truth for Francisco's resume data, including profile, work experience, projects, certifications, education, achievements, languages, and skills. This data is consumed by Francisco's web portfolio and CV generator.
 
 ## Data structure
