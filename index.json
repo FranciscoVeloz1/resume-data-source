@@ -11,8 +11,8 @@
     "profilePhoto": "https://franciscoveloz1.github.io/resume-data-source/images/profile/foto.webp"
   },
   "summary": {
-    "short": "Full-stack engineer with 8+ years in technology, specializing in React, Node.js, Python, and AI-powered systems. Dev Lead at PwC México.",
-    "long": "Full-stack software engineer with 8+ years of experience in technology, building scalable web, mobile, and AI-powered applications with React, Node.js, Python, and cloud infrastructure. Currently a Dev Lead at PwC México, leading development teams, architecting production systems, and delivering blockchain and data engineering solutions for enterprise clients. Track record of measurable impact, including cutting daily inventory processing time by 88% through workflow automation."
+    "short": "Full-stack engineer with 8+ years in technology, specializing in React, Node.js, Python, and AI-assisted development. Dev Lead at PwC México.",
+    "long": "Full-stack software engineer with 8+ years of experience in technology, building scalable web and mobile applications with React, Node.js, Python, and cloud infrastructure. Currently a Dev Lead at PwC México, leading development teams, architecting production systems, and delivering blockchain and data engineering solutions for enterprise clients. Uses AI-assisted development tools such as Cursor and Claude Code to accelerate delivery. Track record of measurable impact, including cutting daily inventory processing time by 88% through workflow automation."
   },
   "workExperience": [
     {
@@ -28,7 +28,8 @@
         "Lead end-to-end full-stack delivery across a React microservices frontend, Node.js and Python backend services, and PySpark data pipelines",
         "Drive vulnerability remediation through software composition analysis scanning, reducing security risk and keeping services compliant",
         "Own release documentation and feature promotion workflows, improving deployment reliability across services",
-        "Integrate AI agent-assisted development workflows into the team's daily practice, accelerating feature delivery, debugging, and maintenance",
+        "Integrate AI-assisted development workflows with tools such as Cursor and Claude Code into the team's daily practice, accelerating feature delivery, debugging, and maintenance",
+
         "Define commit standards and repository management practices to keep codebases clean and auditable",
         "Mentor junior developers through code reviews, technical guidance, and development planning",
         "Work directly with technical and business stakeholders to align engineering priorities with product goals"
@@ -55,7 +56,7 @@
       "responsibilities": [
         "Built scalable web platforms integrated with blockchain-based data pipelines for enterprise clients",
         "Designed secure data engineering workflows with Python and Databricks, processing on-chain and off-chain datasets through custom ETL and analytics pipelines",
-        "Developed AI-powered applications using LLM integrations and agent-based workflows with tools such as Cursor and Claude Code",
+        "Used AI-assisted development tools such as Cursor and Claude Code to accelerate feature delivery, debugging, and maintenance",
         "Created React interfaces for blockchain data visualization and enterprise reporting"
       ],
       "skills": [
@@ -63,7 +64,7 @@
         22,
         21,
         25,
-        24,
+        23,
         7,
         2
       ]
@@ -357,6 +358,14 @@
     }
   ],
   "certifications": [
+    {
+      "name": "Cursor AI Code Editor Course",
+      "issuer": "Platzi",
+      "date": "Jun 2026",
+      "link": "https://platzi.com/p/FranciscoVeloz1/curso/12166-cursor/diploma/detalle/",
+      "logo": "https://franciscoveloz1.github.io/resume-data-source/images/logos/platzi.webp",
+      "description": "Professional AI-assisted development with Cursor: dynamic contexts, custom automation rules, clean architecture, and unit/E2E testing with Jest, Pytest, and Playwright using MCP (Model Context Protocol)."
+    },
     {
       "name": "Databricks Course: Delta Lake Architecture",
       "issuer": "Platzi",
