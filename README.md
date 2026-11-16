@@ -53,6 +53,7 @@ The data lives in `index.json` with the following structure:
       "demo": "",
       "skills": [],
       "description": "",
+      "writeup": "",
       "image": ""
     }
   ],
@@ -113,5 +114,7 @@ The data lives in `index.json` with the following structure:
 - **`workExperience[].employmentType`**: one of `Full-time`, `Contract`, or `Freelance`.
 - **`workExperience[].skills` / `projects[].skills`**: arrays of skill ids referencing entries in the top-level `skills` array.
 - **`projects[].date`**: ISO `YYYY-MM-DD` string.
+- **`projects[].description`**: 1-2 sentence card blurb.
+- **`projects[].writeup`**: three unlabeled paragraphs (what it does, why it exists, how it was built) separated by blank lines. Shown on the project detail page.
 - **`projects[].video`**: YouTube video id.
 - **`skills[].category`**: one of `languages`, `frontend`, `backend`, `dataAndAI`, `devopsAndCloud`, `databases`, or `other`. Grouped skill lists (e.g. for a CV's technical skills section) are derived by filtering on this field.
